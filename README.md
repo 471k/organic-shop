@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
-Functional working website hosted with Firebase Hosting can be found here https://oshop-1aabe.web.app/
+Working website hosted with Firebase Hosting can be found here https://oshop-1aabe.web.app/
 
 ## Development server
 
